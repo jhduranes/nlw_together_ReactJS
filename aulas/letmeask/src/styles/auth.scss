@@ -55,10 +55,10 @@
             align-self: center;
         }
 
-        h2{
+        h2 {
             font-size: 24px;
             margin: 64px 0 24px;
-            font-family: 'Poppins', sans-serif;
+            font-family: "Poppins", sans-serif;
         }
 
         form {
@@ -80,17 +80,17 @@
             }
         }
 
-        p{
+        p {
             font-size: 14px;
             color: #737380;
             margin-top: 16px;
 
-            a{
+            a {
                 color: #e559f9;
             }
         }
     }
-   
+
     .separator {
         font-size: 14px;
         color: #a8a8b3;
@@ -137,7 +137,7 @@
             margin-right: 8px;
         }
 
-        &:hover{
+        &:hover {
             filter: brightness(0.9);
         }
     }
