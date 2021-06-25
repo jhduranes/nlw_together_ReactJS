@@ -8,7 +8,6 @@ import { Button } from '../components/Button';
 import '../styles/auth.scss';
 import { useState } from 'react';
 import { database } from '../services/firebase';
-import { idText } from 'typescript';
 import { useAuth } from '../hooks/useAuth';
 
 export function NewRoom() {
